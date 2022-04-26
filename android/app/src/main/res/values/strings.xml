@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="facebook_app_id">672611787280465</string>
+    <string name="fb_login_protocol_scheme">fb672611787280465</string>
+    <string name="facebook_client_token">bea76bf969fb8a8b3333a3adbe7509fa</string>
+
+</resources>
